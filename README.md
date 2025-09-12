@@ -36,9 +36,8 @@ I am a **Computer Scientist**, **Microelectronics Specialist**, and **Artificial
 
 ## 📫 **How to Reach Me**
 - **Email**: [jaquedebrito@hotmail.com](mailto:jaquedebrito@hotmail.com)  
-- **GitHub**: [github.com/jaquedebrito](https://github.com/jaquedebrito)  
-- **LinkedIn**: [linkedin.com/in/jaqueline-brito-developer](https://www.linkedin.com/in/jaqueline-brito-developer)  
-- **Phone**: +55 (81) 99851-4387  
+- **LinkedIn**: [linkedin.com/in/jaqueline-brito-developer](https://www.linkedin.com/in/jaqueline-brito-developer) 
+ 
 
 ---
 
