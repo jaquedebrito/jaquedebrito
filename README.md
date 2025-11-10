@@ -1,51 +1,86 @@
+<div align="center">
+
 # 👩‍💻 Jaqueline Ferreira de Brito
 
-✨ Welcome to my GitHub profile! ✨  
-I am a **Computer Scientist**, **Microelectronics Specialist**, and **Artificial Intelligence (AI) Enthusiast** passionate about exploring and creating innovative solutions that seamlessly connect hardware and software in an efficient and intelligent way.
+**Computer Scientist | Microelectronics Specialist | AI Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-brito-developer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquedebrito@hotmail.com)
+
+*Building the future where hardware meets intelligent software*
+
+</div>
 
 ---
 
-## 🔭 **Currently Working On**
-- **AI Research**: Developing a private project based on advanced models such as **Llama** and **Mistral 7B**, focusing on integrating AI directly into hardware architectures.
-- **Automation and Infrastructure**: Creating automated workflows using **Bash**, **Anaconda**, and **Jupyter Notebooks**.
-- **Hardware Design and Verification**: Projects focused on digital logic, physical design, and UVM methodologies.
+## 🚀 About Me
+
+I'm passionate about creating innovative solutions that bridge hardware and software. With expertise in microelectronics and AI, I focus on integrating intelligence directly into hardware architectures.
+
+**Background:** Computer Science + Microelectronics + Managerial Processes
 
 ---
 
-## 🌱 **Learning and Exploring**
-- **Full-Stack Development**: Angular, React, and Docker.
-- **EDA Tools**: Cadence (Virtuoso, Innovus, Xcelium), Intel Quartus.
-- **Advanced AI Techniques**: Using frameworks like TensorFlow and PyTorch for hardware optimization.
+## 🔭 Current Focus
+
+- 🤖 **AI Research** - Developing projects with Llama & Mistral 7B models for hardware integration
+- ⚙️ **Automation** - Building workflows with Bash, Anaconda, and Jupyter Notebooks
+- 🔧 **Hardware Design** - Digital logic, physical design, and UVM verification methodologies
 
 ---
 
-## 👯 **Looking to Collaborate On**
-- **Hardware Design and Verification** projects.
-- **Workflow Automation** using modern tools and scripting.
-- **AI and Hardware Integration** with innovative solutions.
+## 💻 Tech Stack
+
+**Languages & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SystemVerilog-1C1C1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Verilog-1C1C1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/TCL-003B57?style=for-the-badge" />
+</p>
+
+**AI & Development**
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**EDA Tools**
+- Cadence (Virtuoso, Innovus, Xcelium)
+- Intel Quartus
+- UVM Verification
 
 ---
 
-## 💬 **Ask Me About**
-- Physical design of integrated circuits (ICs).
-- Automation with Bash, TCL, and Python.
-- Verification methodologies (UVM) and HDL languages (SystemVerilog, Verilog).
-- Full-Stack Development (Java, Angular, React).
+## 🤝 Open to Collaborate
+
+- 🔌 Hardware Design & IC Verification
+- 🤖 AI-Hardware Integration
+- ⚡ Workflow Automation
 
 ---
 
-## 📫 **How to Reach Me**
-- **Email**: [jaquedebrito@hotmail.com](mailto:jaquedebrito@hotmail.com)  
-- **LinkedIn**: [linkedin.com/in/jaqueline-brito-developer](https://www.linkedin.com/in/jaqueline-brito-developer) 
- 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaquedebrito&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaquedebrito&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## ⚡ **Fun Facts**
-- I have a background in **Managerial Processes** and **Technical Maintenance and IT Support**, which complements my technical expertise with management skills.
-- I am working towards making **AI-integrated hardware** a reality, creating smarter and more efficient digital architectures.
-- I love learning about new technologies and sharing knowledge!
+<div align="center">
 
----
+### 💡 *"Technology has the power to turn ideas into reality, and I am here to build that future."*
 
-**"Technology has the power to turn ideas into reality, and I am here to build that future."**
+![Profile Views](https://komarev.com/ghpvc/?username=jaquedebrito&color=blueviolet&style=flat-square)
+
+</div>
