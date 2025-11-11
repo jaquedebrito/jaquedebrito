@@ -2,7 +2,7 @@
 
 # 👩‍💻 Jaqueline Ferreira de Brito
 
-**Computer Scientist | Microelectronics Specialist | AI Researcher**
+**Computer Scientist | Verification Engineer | AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-brito-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquedebrito@hotmail.com)
@@ -11,7 +11,7 @@
 
 <br>
 
-### *"Bridging the gap between hardware architecture and artificial intelligence"*
+### *"Exploring the intersection of hardware verification and artificial intelligence"*
 
 </div>
 
@@ -19,48 +19,54 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Scientist specializing in **Microelectronics and Artificial Intelligence**. My work focuses on bridging the gap between hardware design and intelligent software systems, creating innovative solutions at the intersection of digital logic, physical design, and machine learning.
+I'm a Computer Scientist passionate about **Microelectronics and Artificial Intelligence**. Currently working as a **Verification Engineer at HCLTech**, I'm exploring how to combine hardware verification with AI technologies.
 
-With a strong foundation in both **theoretical computer science** and **practical hardware engineering**, I develop projects that span from low-level RTL design to high-level AI applications, always with an eye toward pushing the boundaries of what's possible in hardware-accelerated intelligence.
+My journey started with a Bachelor's degree in Computer Science, where my final thesis focused on **process automation and AI applications**. After graduation, I was selected for the **CI Inovador** program, where I discovered my passion for microelectronics and learned how to integrate my computer science background with hardware design and verification.
 
-**🎓 Academic Background:**
-- Computer Science
-- Microelectronics Engineering
-- Managerial Processes
+**🎓 Education:**
+- **B.S. in Computer Science** - Thesis on Process Automation and AI
+- **Postgraduate Student in Microelectronics** - Currently pursuing (CI Inovador program)
+- **Technical Degree in Management Processes** - Previous formation
 
-**🔬 Research Interests:**
-- AI-Hardware Integration & Acceleration
-- Digital IC Design & Verification (UVM/SystemVerilog)
-- Physical Design & ASIC/FPGA Development
-- Machine Learning Model Optimization for Hardware
+**💼 Professional Experience:**
+- **Verification Engineer** at HCLTech (current position)
+- **CI Inovador** program graduate - Microelectronics residency
 
----
-
-## 🔭 Current Focus & Projects
-
-- 🤖 **AI Research** - Implementing and optimizing Llama & Mistral 7B models for efficient hardware integration
-- 🔌 **Hardware Verification** - Advanced UVM testbench development and SystemVerilog verification methodologies
-- 💻 **Physical Design** - Complete ASIC design flow from RTL to GDSII using Cadence tools (Virtuoso, Innovus, Xcelium)
-- 📊 **Data Science** - Developing AI/ML projects with Python, TensorFlow, and PyTorch
-- ⚙️ **Automation & DevOps** - Building efficient workflows with Bash scripting, Anaconda, and Jupyter Notebooks
+**🔍 Learning Focus:**
+- Hardware Verification with UVM/SystemVerilog
+- Combining AI techniques with hardware design
+- Digital logic and RTL development
+- Exploring opportunities to integrate ML models with verification workflows
 
 ---
 
-## 🏆 Featured Projects
+## 🔭 Current Focus
 
-### 🔌 Hardware Design & Verification
-- **[Physical-Project](https://github.com/jaquedebrito/Physical-Project)** - Complete physical design flow for integrated circuits, transforming HDL to GDSII
-- **[Introduction-to-Verification](https://github.com/jaquedebrito/Introduction-to-Verification)** - SystemVerilog verification projects and methodologies
-- **[Verification-UVM](https://github.com/jaquedebrito/Verification-UVM)** - Universal Verification Methodology implementations and testbenches
-- **[Digital-Logic](https://github.com/jaquedebrito/Digital-Logic)** - Fundamental digital logic circuits and designs in SystemVerilog
-- **[Architecture-ASIC-e-FPGA](https://github.com/jaquedebrito/Architecture-ASIC-e-FPGA)** - Comparative study and implementation of ASIC vs FPGA solutions
+- 🔌 **Hardware Verification** - Working with UVM testbenches and SystemVerilog verification methodologies at HCLTech
+- 🤖 **AI Learning** - Studying machine learning fundamentals and exploring applications in hardware (Llama, Mistral models)
+- 📚 **Academic Development** - Completing postgraduate studies in Microelectronics
+- 🎓 **Graduate Studies** - Applying for Master's programs to deepen knowledge in AI and hardware integration
+- ⚙️ **Personal Projects** - Building small automation and AI projects to strengthen practical skills
+
+---
+
+## 🏆 Academic Projects
+
+*Most of these projects were developed during my studies at CI Inovador and other academic courses.*
+
+### 🔌 Hardware Verification & Design
+- **[Introduction-to-Verification](https://github.com/jaquedebrito/Introduction-to-Verification)** - Learning SystemVerilog verification fundamentals (CI Inovador)
+- **[Verification-UVM](https://github.com/jaquedebrito/Verification-UVM)** - UVM methodology course projects (CI Inovador)
+- **[Digital-Logic](https://github.com/jaquedebrito/Digital-Logic)** - Digital logic design exercises in SystemVerilog (CI Inovador)
+- **[Architecture-ASIC-e-FPGA](https://github.com/jaquedebrito/Architecture-ASIC-e-FPGA)** - ASIC vs FPGA comparative studies (CI Inovador)
+- **[Test-Structures-in-Physical-Design](https://github.com/jaquedebrito/Test-Structures-in-Physical-Design)** - Physical design course exercises (CI Inovador)
 
 ### 🤖 AI & Machine Learning
-- **[Atividades_TrilhaParaElas_FaseMentoria](https://github.com/jaquedebrito/Atividades_TrilhaParaElas_FaseMentoria)** - AI mentorship projects and Jupyter Notebook implementations
-- **[demo-rasa](https://github.com/jaquedebrito/demo-rasa)** - Conversational AI implementation using Rasa framework
+- **[Atividades_TrilhaParaElas_FaseMentoria](https://github.com/jaquedebrito/Atividades_TrilhaParaElas_FaseMentoria)** - AI mentorship program activities with Jupyter Notebooks
+- **[demo-rasa](https://github.com/jaquedebrito/demo-rasa)** - Conversational AI learning project using Rasa framework
 
 ### 💼 Software Development
-- **[Devsuperior-bootcamp-SDS3](https://github.com/jaquedebrito/Devsuperior-bootcamp-SDS3)** - Full-stack development bootcamp projects with Java and React
+- **[Devsuperior-bootcamp-SDS3](https://github.com/jaquedebrito/Devsuperior-bootcamp-SDS3)** - Full-stack development bootcamp projects
 
 ---
 
@@ -105,10 +111,10 @@ With a strong foundation in both **theoretical computer science** and **practica
 </p>
 
 ### 🔧 EDA Tools & Hardware Platforms
-- **Cadence Suite:** Virtuoso (Analog/Custom Design), Innovus (Digital Implementation), Xcelium (Simulation)
-- **Intel:** Quartus Prime (FPGA Development)
+*Tools learned through CI Inovador program and professional work:*
+- **Cadence:** Xcelium (Simulation), Innovus (Implementation basics)
+- **Intel:** Quartus Prime (FPGA fundamentals)
 - **Verification:** UVM (Universal Verification Methodology), SystemVerilog Assertions
-- **Synthesis & Analysis:** Design Compiler, PrimeTime, ICC2
 
 ### 🛠️ Development Tools & DevOps
 <p>
@@ -121,54 +127,56 @@ With a strong foundation in both **theoretical computer science** and **practica
 
 ---
 
-## 🎯 Areas of Expertise
+## 🎯 Skills & Knowledge
+
+*These skills were acquired through academic courses, CI Inovador program, and on-the-job learning.*
 
 <table>
 <tr>
-<td width="50%">
-
-### 🔌 Hardware Design
-- Digital IC Design
-- RTL Development (Verilog/SystemVerilog)
-- ASIC & FPGA Implementation
-- Physical Design Flow (RTL to GDSII)
-- Timing Analysis & Optimization
-- Low Power Design Techniques
-
-</td>
 <td width="50%">
 
 ### ✅ Verification & Testing
 - UVM (Universal Verification Methodology)
 - SystemVerilog Testbenches
 - Functional Coverage & Assertions
-- Constrained Random Verification
-- Protocol Verification
+- Basic Constrained Random Verification
+- Protocol Verification fundamentals
 - Debug & Troubleshooting
+
+</td>
+<td width="50%">
+
+### 🔌 Hardware Fundamentals
+- Digital Logic Design
+- RTL Development (Verilog/SystemVerilog)
+- ASIC & FPGA basics
+- Understanding of design flows
+- Basic timing concepts
+- Hardware description languages
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 Artificial Intelligence
-- Deep Learning (CNNs, Transformers)
-- Large Language Models (LLama, Mistral)
-- ML Model Optimization
-- Hardware Acceleration for AI
-- Computer Vision
-- Natural Language Processing
+### 💻 Software Development
+- Object-Oriented Programming
+- Python, Java development
+- Web Development (React, Angular)
+- Version Control (Git)
+- Database basics
+- RESTful APIs
 
 </td>
 <td width="50%">
 
-### 💻 Software Engineering
-- Object-Oriented Programming
-- Full-Stack Web Development
-- RESTful API Design
-- Database Management
-- Version Control (Git)
-- Agile Methodologies
+### 🤖 AI & Machine Learning
+- Machine Learning fundamentals
+- Python libraries (TensorFlow, PyTorch basics)
+- Data analysis with Pandas, NumPy
+- Jupyter Notebooks
+- Learning about LLMs (Llama, Mistral)
+- Exploring AI applications in hardware
 
 </td>
 </tr>
@@ -178,11 +186,11 @@ With a strong foundation in both **theoretical computer science** and **practica
 
 ## 🤝 Open to Collaborate On
 
-- 🔌 **Hardware Design & IC Verification** - Complex digital designs and comprehensive verification environments
-- 🤖 **AI-Hardware Integration** - Accelerating ML models with custom hardware architectures
-- ⚡ **Workflow Automation** - Building efficient development and verification flows
-- 🎓 **Educational Projects** - Mentoring and teaching hardware design and AI concepts
-- 🔬 **Research Initiatives** - Academic papers and innovative solutions in microelectronics
+- 🔌 **Verification Projects** - Learning and contributing to verification environments and testbenches
+- 🤖 **AI-Hardware Exploration** - Studying how AI can be applied to hardware verification and design
+- 📚 **Academic Projects** - Collaborating on educational initiatives and learning opportunities
+- 🎓 **Study Groups** - Discussions about microelectronics, verification, and AI topics
+- 💡 **Knowledge Sharing** - Learning from more experienced professionals in the field
 
 ---
 
@@ -217,22 +225,23 @@ With a strong foundation in both **theoretical computer science** and **practica
 
 ## 📫 Let's Connect!
 
-I'm always interested in discussing:
-- 💡 Innovative hardware design approaches
-- 🔬 Research collaborations in AI and microelectronics
-- 🎓 Mentoring opportunities
-- 💼 Career opportunities in hardware design, verification, or AI
+I'm always interested in:
+- 💡 Learning about verification methodologies and best practices
+- 🔬 Discussing AI applications in microelectronics
+- 🎓 Opportunities to grow professionally in verification engineering
+- 💼 Networking with professionals in hardware verification and AI
+- 📚 Sharing experiences from CI Inovador and early career journey
 
 **Feel free to reach out through:**
 - 💌 Email: jaquedebrito@hotmail.com
 - 💼 LinkedIn: [Jaqueline Brito](https://www.linkedin.com/in/jaqueline-brito-developer)
-- 📚 Research Profiles: [ORCID](https://orcid.org/0009-0000-3896-5607) | [Lattes](http://lattes.cnpq.br/5375668127534479)
+- 📚 Academic Profiles: [ORCID](https://orcid.org/0009-0000-3896-5607) | [Lattes](http://lattes.cnpq.br/5375668127534479)
 
 ---
 
 <div align="center">
 
-### 💡 *"Technology has the power to turn ideas into reality. I am here to build that future, one chip at a time."*
+### 💡 *"Starting my journey in hardware verification and exploring how AI can enhance the way we design and verify digital systems."*
 
 <br>
 
