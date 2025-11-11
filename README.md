@@ -37,16 +37,17 @@
 
 I'm a Computer Scientist passionate about **Microelectronics and Artificial Intelligence**. Currently working as a **Verification Engineer at HCLTech**, I'm exploring how to combine hardware verification with AI technologies.
 
-My journey started with a Bachelor's degree in Computer Science, where my final thesis focused on **process automation and AI applications**. After graduation, I was selected for the **CI Inovador** program, where I discovered my passion for microelectronics and learned how to integrate my computer science background with hardware design and verification.
+My journey started with a Bachelor's degree in Computer Science, where my final thesis focused on **process automation and AI applications**. After graduation, I was selected for and completed the **CI Inovador** program, where I discovered my passion for microelectronics and learned how to integrate my computer science background with hardware design and verification. Completing CI Inovador enabled my enrollment in the postgraduate program in Microelectronics at UFSM, which I'm currently pursuing.
 
 **🎓 Education:**
 - **B.S. in Computer Science** - Thesis on Process Automation and AI
-- **Postgraduate Student in Microelectronics** - Currently pursuing (CI Inovador program)
+- **Postgraduate Student in Microelectronics (UFSM)** - Currently pursuing
+- **CI Inovador Program** - Completed (Microelectronics residency - enabled postgraduate enrollment)
 - **Technical Degree in Management Processes** - Previous formation
 
 **💼 Professional Experience:**
-- **Verification Engineer** at HCLTech (current position)
-- **CI Inovador** program graduate - Microelectronics residency
+- **Verification Engineer** at HCLTech (current position, obtained after completing CI Inovador)
+- **CI Inovador Program** - Graduate (2024)
 
 **🔍 Learning Focus:**
 - Hardware Verification with UVM/SystemVerilog
@@ -60,7 +61,7 @@ My journey started with a Bachelor's degree in Computer Science, where my final 
 
 - 🔌 **Hardware Verification** - Working with UVM testbenches and SystemVerilog verification methodologies at HCLTech
 - 🤖 **AI Learning** - Studying machine learning fundamentals and exploring applications in hardware (Llama, Mistral models)
-- 📚 **Academic Development** - Completing postgraduate studies in Microelectronics
+- 📚 **Academic Development** - Completing postgraduate studies in Microelectronics at UFSM
 - 🎓 **Graduate Studies** - Applying for Master's programs to deepen knowledge in AI and hardware integration
 - ⚙️ **Personal Projects** - Building small automation and AI projects to strengthen practical skills
 
@@ -282,16 +283,17 @@ I'm always interested in:
 
 Sou Cientista da Computação apaixonada por **Microeletrônica e Inteligência Artificial**. Atualmente trabalho como **Engenheira de Verificação na HCLTech**, explorando como combinar verificação de hardware com tecnologias de IA.
 
-Minha jornada começou com o Bacharelado em Ciência da Computação, onde meu trabalho de conclusão focou em **automação de processos e aplicações de IA**. Após a graduação, fui selecionada para o programa **CI Inovador**, onde descobri minha paixão por microeletrônica e aprendi a integrar minha formação em ciência da computação com design e verificação de hardware.
+Minha jornada começou com o Bacharelado em Ciência da Computação, onde meu trabalho de conclusão focou em **automação de processos e aplicações de IA**. Após a graduação, fui selecionada e concluí o programa **CI Inovador**, onde descobri minha paixão por microeletrônica e aprendi a integrar minha formação em ciência da computação com design e verificação de hardware. A conclusão do CI Inovador possibilitou meu ingresso na pós-graduação em Microeletrônica na UFSM, que estou cursando atualmente.
 
 **🎓 Formação:**
 - **Bacharelado em Ciência da Computação** - TCC sobre Automação de Processos e IA
-- **Pós-graduanda em Microeletrônica** - Cursando atualmente (programa CI Inovador)
+- **Pós-graduanda em Microeletrônica (UFSM)** - Cursando atualmente
+- **Programa CI Inovador** - Concluído (Residência em Microeletrônica - possibilitou ingresso na pós-graduação)
 - **Tecnólogo em Processos Gerenciais** - Formação anterior
 
 **💼 Experiência Profissional:**
-- **Engenheira de Verificação** na HCLTech (posição atual)
-- **Programa CI Inovador** - Residência em Microeletrônica
+- **Engenheira de Verificação** na HCLTech (posição atual, conquistada após conclusão do CI Inovador)
+- **Programa CI Inovador** - Concluído (2024)
 
 **🔍 Foco de Aprendizado:**
 - Verificação de Hardware com UVM/SystemVerilog
@@ -305,7 +307,7 @@ Minha jornada começou com o Bacharelado em Ciência da Computação, onde meu t
 
 - 🔌 **Verificação de Hardware** - Trabalhando com testbenches UVM e metodologias de verificação em SystemVerilog na HCLTech
 - 🤖 **Aprendizado em IA** - Estudando fundamentos de machine learning e explorando aplicações em hardware (modelos Llama, Mistral)
-- 📚 **Desenvolvimento Acadêmico** - Concluindo estudos de pós-graduação em Microeletrônica
+- 📚 **Desenvolvimento Acadêmico** - Concluindo estudos de pós-graduação em Microeletrônica na UFSM
 - 🎓 **Estudos de Mestrado** - Aplicando para programas de Mestrado para aprofundar conhecimento em IA e integração com hardware
 - ⚙️ **Projetos Pessoais** - Desenvolvendo pequenos projetos de automação e IA para fortalecer habilidades práticas
 
