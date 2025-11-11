@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-brito-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquedebrito@hotmail.com)
+[![Orcid](https://orcid.org/0009-0000-3896-5607)]
 
 *Building the future where hardware meets intelligent software*
 
