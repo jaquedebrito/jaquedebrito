@@ -37,7 +37,7 @@
 
 I'm a Computer Scientist passionate about **Microelectronics and Artificial Intelligence**. Currently working as a **Verification Designer at HCLTech** since June 2025, I'm exploring how to combine hardware verification with AI technologies.
 
-My journey started with a Bachelor's degree in Computer Science (2019-2023), where my final thesis focused on **process automation and AI applications**. After graduation, I was selected for the **CI Inovador** residency program (Oct 2024 - Apr 2025), where I discovered my passion for microelectronics and learned how to integrate my computer science background with hardware design and verification. Completing CI Inovador enabled my enrollment in the postgraduate program in Microelectronics at UFSM (Oct 2024 - Jul 2026), which I'm currently pursuing with a focus on developing a scientific article based on the knowledge acquired during CI Inovador.
+My journey started with a Bachelor's degree in Computer Science (2019-2023), where my final thesis focused on **process automation and AI applications**. After graduation, I was approved for the **CI Inovador** residency program (Oct 2024 - Apr 2025), where I discovered my passion for microelectronics and learned how to integrate my computer science background with hardware design and verification. Completing CI Inovador enabled my enrollment in the postgraduate program in Microelectronics at UFSM (Oct 2024 - Jul 2026), which I'm currently pursuing with a focus on developing a scientific article based on the knowledge acquired during CI Inovador.
 
 **🎓 Education:**
 - **B.S. in Computer Science (UNIPESU)** - 2019-2023, Thesis on Process Automation and AI
@@ -285,7 +285,7 @@ I'm always interested in:
 
 Sou Cientista da Computação apaixonada por **Microeletrônica e Inteligência Artificial**. Atualmente trabalho como **Designer de Verificação na HCLTech** desde junho de 2025, explorando como combinar verificação de hardware com tecnologias de IA.
 
-Minha jornada começou com o Bacharelado em Ciência da Computação (2019-2023), onde meu trabalho de conclusão focou em **automação de processos e aplicações de IA**. Após a graduação, fui selecionada para o programa de residência **CI Inovador** (out 2024 - abr 2025), onde descobri minha paixão por microeletrônica e aprendi a integrar minha formação em ciência da computação com design e verificação de hardware. A conclusão do CI Inovador possibilitou meu ingresso na pós-graduação em Microeletrônica na UFSM (out 2024 - jul 2026), que estou cursando atualmente com foco no desenvolvimento de um artigo científico baseado nos conhecimentos adquiridos no CI Inovador.
+Minha jornada começou com o Bacharelado em Ciência da Computação (2019-2023), onde meu trabalho de conclusão focou em **automação de processos e aplicações de IA**. Após a graduação, fui aprovada para o programa de residência **CI Inovador** (out 2024 - abr 2025), onde descobri minha paixão por microeletrônica e aprendi a integrar minha formação em ciência da computação com design e verificação de hardware. A conclusão do CI Inovador possibilitou meu ingresso na pós-graduação em Microeletrônica na UFSM (out 2024 - jul 2026), que estou cursando atualmente com foco no desenvolvimento de um artigo científico baseado nos conhecimentos adquiridos no CI Inovador.
 
 **🎓 Formação:**
 - **Bacharelado em Ciência da Computação (UNIPESU)** - 2019-2023, TCC sobre Automação de Processos e IA
