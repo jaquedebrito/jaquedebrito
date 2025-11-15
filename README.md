@@ -2,7 +2,7 @@
 
 # 👩‍💻 Jaqueline Ferreira de Brito
 
-**Computer Scientist | Verification Engineer | AI Enthusiast**
+**Computer Scientist | Verification Designer | AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaqueline-brito-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaquedebrito@hotmail.com)
@@ -35,7 +35,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Scientist passionate about **Microelectronics and Artificial Intelligence**. Currently working as a **Verification Engineer at HCLTech** since June 2025, I'm exploring how to combine hardware verification with AI technologies.
+I'm a Computer Scientist passionate about **Microelectronics and Artificial Intelligence**. Currently working as a **Verification Designer at HCLTech** since June 2025, I'm exploring how to combine hardware verification with AI technologies.
 
 My journey started with a Bachelor's degree in Computer Science (2019-2023), where my final thesis focused on **process automation and AI applications**. After graduation, I was selected for the **CI Inovador** residency program (Oct 2024 - Apr 2025), where I discovered my passion for microelectronics and learned how to integrate my computer science background with hardware design and verification. Completing CI Inovador enabled my enrollment in the postgraduate program in Microelectronics at UFSM (Oct 2024 - Jul 2026), which I'm currently pursuing with a focus on developing a scientific article based on the knowledge acquired during CI Inovador.
 
@@ -47,7 +47,7 @@ My journey started with a Bachelor's degree in Computer Science (2019-2023), whe
 - **IT Technical Support (UNINASSAU)** - 2014-2015
 
 **💼 Professional Experience:**
-- **Verification Engineer** at HCLTech - Jun 2025 - present
+- **Verification Designer** at HCLTech - Jun 2025 - present
 - **Postgraduate Student** at UFSM - Oct 2024 - present
 - **CI Inovador Resident** at SOFTEX - Oct 2024 - Apr 2025
 
@@ -247,7 +247,7 @@ My journey started with a Bachelor's degree in Computer Science (2019-2023), whe
 I'm always interested in:
 - 💡 Learning about verification methodologies and best practices
 - 🔬 Discussing AI applications in microelectronics
-- 🎓 Opportunities to grow professionally in verification engineering
+- 🎓 Opportunities to grow professionally in verification design
 - 💼 Networking with professionals in hardware verification and AI
 - 📚 Sharing experiences from CI Inovador and early career journey
 
@@ -283,7 +283,7 @@ I'm always interested in:
 
 ## 🚀 Sobre Mim
 
-Sou Cientista da Computação apaixonada por **Microeletrônica e Inteligência Artificial**. Atualmente trabalho como **Engenheira de Verificação na HCLTech** desde junho de 2025, explorando como combinar verificação de hardware com tecnologias de IA.
+Sou Cientista da Computação apaixonada por **Microeletrônica e Inteligência Artificial**. Atualmente trabalho como **Designer de Verificação na HCLTech** desde junho de 2025, explorando como combinar verificação de hardware com tecnologias de IA.
 
 Minha jornada começou com o Bacharelado em Ciência da Computação (2019-2023), onde meu trabalho de conclusão focou em **automação de processos e aplicações de IA**. Após a graduação, fui selecionada para o programa de residência **CI Inovador** (out 2024 - abr 2025), onde descobri minha paixão por microeletrônica e aprendi a integrar minha formação em ciência da computação com design e verificação de hardware. A conclusão do CI Inovador possibilitou meu ingresso na pós-graduação em Microeletrônica na UFSM (out 2024 - jul 2026), que estou cursando atualmente com foco no desenvolvimento de um artigo científico baseado nos conhecimentos adquiridos no CI Inovador.
 
@@ -295,7 +295,7 @@ Minha jornada começou com o Bacharelado em Ciência da Computação (2019-2023)
 - **Técnico em Suporte em Informática (UNINASSAU)** - 2014-2015
 
 **💼 Experiência Profissional:**
-- **Engenheira de Verificação** na HCLTech - jun 2025 - presente
+- **Designer de Verificação** na HCLTech - jun 2025 - presente
 - **Aluna de Pós-graduação** na UFSM - out 2024 - presente
 - **Residente CI Inovador** na SOFTEX - out 2024 - abr 2025
 
@@ -495,7 +495,7 @@ Minha jornada começou com o Bacharelado em Ciência da Computação (2019-2023)
 Estou sempre interessada em:
 - 💡 Aprender sobre metodologias de verificação e melhores práticas
 - 🔬 Discutir aplicações de IA em microeletrônica
-- 🎓 Oportunidades de crescer profissionalmente em engenharia de verificação
+- 🎓 Oportunidades de crescer profissionalmente em design de verificação
 - 💼 Networking com profissionais em verificação de hardware e IA
 - 📚 Compartilhar experiências do CI Inovador e jornada inicial de carreira
 
