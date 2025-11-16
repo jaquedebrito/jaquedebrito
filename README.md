@@ -131,8 +131,9 @@ My journey started with a Bachelor's degree in Computer Science (2019-2023), whe
 
 ### 🔧 EDA Tools & Hardware Platforms
 *Tools learned through CI Inovador program and professional work:*
-- **Cadence:** Xcelium (Simulation), Innovus (Implementation basics)
+- **Cadence:** Xcelium (Simulation), Genus, Modus, Innovus, Virtuoso
 - **Intel:** Quartus Prime (FPGA fundamentals)
+- **Synopsys** Verdi
 - **Verification:** UVM (Universal Verification Methodology), SystemVerilog Assertions
 
 ### 🛠️ Development Tools & DevOps
@@ -168,7 +169,7 @@ My journey started with a Bachelor's degree in Computer Science (2019-2023), whe
 ### 🔌 Hardware Fundamentals
 - Digital Logic Design
 - RTL Development (Verilog/SystemVerilog)
-- ASIC & FPGA basics
+- ASIC & FPGA 
 - Understanding of design flows
 - Basic timing concepts
 - Hardware description languages
@@ -379,8 +380,9 @@ Minha jornada começou com o Bacharelado em Ciência da Computação (2019-2023)
 
 ### 🔧 Ferramentas EDA & Plataformas de Hardware
 *Ferramentas aprendidas através do programa CI Inovador e trabalho profissional:*
-- **Cadence:** Xcelium (Simulação), Innovus (Fundamentos de implementação)
+- **Cadence:**  Xcelium (Simulation), Genus, Modus, Innovus, Virtuoso
 - **Intel:** Quartus Prime (Fundamentos de FPGA)
+- **Synopsys** Verdi
 - **Verificação:** UVM (Universal Verification Methodology), SystemVerilog Assertions
 
 ### 🛠️ Ferramentas de Desenvolvimento & DevOps
